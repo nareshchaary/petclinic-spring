@@ -32,9 +32,13 @@
     <maven-checkstyle.version>3.2.2</maven-checkstyle.version>
     <nohttp-checkstyle.version>0.0.11</nohttp-checkstyle.version>
     <spring-format.version>0.0.39</spring-format.version>
-
+    
+    <sonar.organization>nareshchaary</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>95a4f3758e08c131b1d5120f4a161bd691114462</sonar.login>
+  
   </properties>
-
+  
   <dependencies>
     <!-- Spring and Spring Boot dependencies -->
     <dependency>
